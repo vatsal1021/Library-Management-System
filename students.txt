@@ -1,0 +1,5 @@
+2,stud 1,Pass1,ACTIVE,0,0,0,4,;admin:Please Clear Dues:;
+3,stud 2,pass2,ACTIVE,0,0,0,;
+4,stud 3,Pass3,ACTIVE,0,0,0,;
+5,Stud 4,Pass4,ACTIVE,0,0,0,;
+6,stud 5,Pass5,ACTIVE,0,0,0,;
